@@ -1,2 +1,2 @@
 import streamlit as st
-st.writ("helloo")
+st.write("helloo")
