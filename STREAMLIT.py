@@ -16,7 +16,7 @@ st.image('toyo.png')
 
 st.title('How :red[Toyota] dominate Saudi Arabia Market?')
 # st.title('_Streamlit_ is :red[TEST] :sunglasses:')
-cars = pd.read_csv("Data\cars.csv")
+cars = pd.read_csv("https://raw.githubusercontent.com/MohammedAlaklabi/Use-case-4/main/Data/cars.csv")
 # ---
 st.text("At the beginning of Toyota's entry into the car market,")
 st.text("it showed considerable growth locally.") 
